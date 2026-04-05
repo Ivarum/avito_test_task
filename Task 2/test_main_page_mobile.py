@@ -9,3 +9,4 @@ class TestMainPageMobileFunc():
         page = MainPage(browser, link)
         page.open()
         page.is_theme_button_work()
+        page.is_theme_button_work()
